@@ -20,6 +20,7 @@ Motivated software engineering student with experience in web development and di
 ## Education
 
 `December 2023`
+
 **Brigham Young University - Idaho**, Rexburg, ID
 
 - Major: Software Engineering - Software Development
@@ -35,6 +36,7 @@ Motivated software engineering student with experience in web development and di
 ### Teaching Assistant – Electrical Engineering
 
 `September 2022 - Present`
+
 __Brigham Young University – Idaho__, Rexburg, ID
 
 - Devised and implemented new course curriculum and compared results for 3 different sections of class
@@ -44,6 +46,7 @@ __Brigham Young University – Idaho__, Rexburg, ID
 ### Digital Marketing Developer
 
 `September 2021 - Present`
+
 __Anthem Broadband__, Idaho Falls, ID
 
 - Improved monthly lead generation from company website by an average of 250%
@@ -54,6 +57,7 @@ __Anthem Broadband__, Idaho Falls, ID
 ### Front-End Web Developer
 
 `September 2020 - September 2021`
+
 __Swello Marketing__, Phoenix, AZ
 
 - Built or updated more than 30 websites in Shopify, SquareSpace, and more
@@ -64,6 +68,7 @@ __Swello Marketing__, Phoenix, AZ
 ## Service and Work History
 
 `2011-2013`
+
 **Service Missionary**, Brazil
 
 ## Skills
