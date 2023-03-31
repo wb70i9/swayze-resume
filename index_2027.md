@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Andrew Swayze's Resume
 ---
 
