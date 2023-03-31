@@ -7,11 +7,9 @@ title: Andrew Swayze's Resume
 
 _Summary of Qualifications_
 
-
 <a href="aswayze@byui.edu">aswayze@byui.edu</a>
 | <a href="https://www.linkedin.com/in/andrewswayze/">LinkedIn</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-
 
 ## Summary
 
