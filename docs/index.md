@@ -1,89 +1,83 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Andrew Swayze's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Andrew Swayze
+
+_Summary of Qualifications_
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="aswayze@byui.edu">aswayze@byui.edu</a>
+| <a href="https://www.linkedin.com/in/andrewswayze/">LinkedIn</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## Summary
+
+Motivated software engineering student with experience in web development and digital marketing. Strong problem-solving and analytical skills, ability to implement test plans, and experience in code reviews. Experience in teaching and front-end web development, with a track record of increasing lead generation and conversion rates. Strong collaborator with a passion for using technical skills to contribute to innovative product creation and refinement.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`December 2023`
+**Brigham Young University - Idaho**, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Major: Software Engineering - Software Development
+- Full Stack Web Development
+- Database Design & Development
+- Data Science Programming
+- Designing Data Structures
+- Technical Teamwork
+- Applied Programming
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+### Teaching Assistant – Electrical Engineering
 
+`September 2022 - Present`
+__Brigham Young University – Idaho__, Rexburg, ID
 
-## Related Experience
+- Devised and implemented new course curriculum and compared results for 3 different sections of class
+- Provided support in teaching and leading lab sessions as well as helping 50+ students with course material during office hours
+- Graded course reflections, homework, and lab results and provided feedback to students at least twice a week
 
-### Internships
+### Digital Marketing Developer
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2021 - Present`
+__Anthem Broadband__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Improved monthly lead generation from company website by an average of 250%
+- Developed new lead generating landing pages each month in Python Django
+- Acquired multiple certifications in Hubspot, Google, and Microsoft Marketing platforms
+- Collaborated with top management to develop new processes for streamlining development and ensuring consistent production value
 
-### Data Science Lead
+### Front-End Web Developer
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2020 - September 2021`
+__Swello Marketing__, Phoenix, AZ
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Built or updated more than 30 websites in Shopify, SquareSpace, and more
+- Improved conversion rate of multiple customers by more than 200%
+- Optimized designs using Photoshop, XD, HTML, CSS, and JavaScript
+- Earned certification as CSS and HTML developer from W3 Schools
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2011-2013`
+**Service Missionary**, Brazil
 
+## Skills
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Microsoft Office Suite
+- Photoshop, Illustrator, XD
+- Visual Studio Code
+- MySQL
+- PowerBI
+- Python, Django, HTML, CSS, C++, JavaScript
+- Agile Development
+- Pair Programming
+- Problem Solving
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2023 -->
