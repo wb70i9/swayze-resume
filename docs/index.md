@@ -37,7 +37,7 @@ Motivated software engineering student with experience in web development and di
 
 `September 2022 - Present`
 
-__Brigham Young University – Idaho__, Rexburg, ID
+**Brigham Young University – Idaho**, Rexburg, ID
 
 - Devised and implemented new course curriculum and compared results for 3 different sections of class
 - Provided support in teaching and leading lab sessions as well as helping 50+ students with course material during office hours
@@ -47,7 +47,7 @@ __Brigham Young University – Idaho__, Rexburg, ID
 
 `September 2021 - Present`
 
-__Anthem Broadband__, Idaho Falls, ID
+**Anthem Broadband**, Idaho Falls, ID
 
 - Improved monthly lead generation from company website by an average of 250%
 - Developed new lead generating landing pages each month in Python Django
@@ -58,7 +58,7 @@ __Anthem Broadband__, Idaho Falls, ID
 
 `September 2020 - September 2021`
 
-__Swello Marketing__, Phoenix, AZ
+**Swello Marketing**, Phoenix, AZ
 
 - Built or updated more than 30 websites in Shopify, SquareSpace, and more
 - Improved conversion rate of multiple customers by more than 200%
