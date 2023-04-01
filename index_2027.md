@@ -5,8 +5,6 @@ title: Andrew Swayze's Resume
 
 # Andrew Swayze
 
-_Summary of Qualifications_
-
 <div id="webaddress">
 <a href="aswayze@byui.edu">aswayze@byui.edu</a>
 | <a href="https://www.linkedin.com/in/andrewswayze/">LinkedIn</a>
@@ -15,7 +13,7 @@ _Summary of Qualifications_
 
 ## Summary
 
-Motivated software engineering student with experience in web development and digital marketing. Strong problem-solving and analytical skills, ability to implement test plans, and experience in code reviews. Experience in teaching and front-end web development, with a track record of increasing lead generation and conversion rates. Strong collaborator with a passion for using technical skills to contribute to innovative product creation and refinement.
+Motivated software engineering student with experience in web development and digital marketing. Strong problem-solving and analytical skills, ability to implement test plans, and experience in code reviews. Experienced in teaching and front-end web development, with a track record of increasing lead generation and conversion rates. Strong collaborator with a passion for using technical skills to contribute to innovative product creation and refinement.
 
 ## Education
 
@@ -39,7 +37,7 @@ __Brigham Young University – Idaho__, Rexburg, ID
 
 - Devised and implemented new course curriculum and compared results for 3 different sections of class
 - Provided support in teaching and leading lab sessions as well as helping 50+ students with course material during office hours
-- Graded course reflections, homework, and lab results and provided feedback to students at least twice a week
+- Graded course reflections, homework, and lab results as well as provided feedback to students at least twice a week
 
 ### Digital Marketing Developer
 
@@ -65,6 +63,7 @@ __Swello Marketing__, Phoenix, AZ
 
 `2011-2013`
 **Service Missionary**, Brazil
+-**maybe go into detail a bit about types of services performed, like taught all levels of English to native Brazilian speakers or something like that
 
 ## Skills
 
